@@ -1,0 +1,21 @@
+{
+	"name": "homebridge-little-warmth",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://git.snoot.club/chee/homebridge-little-warmth.git"
+	},
+	"engines": {
+		"homebridge": "*"
+	},
+	"author": "chee <chee@snoot.club>",
+	"license": "GPL-3.0",
+	"keywords": [
+		"homebridge-plugin"
+	]
+}
