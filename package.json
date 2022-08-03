@@ -8,12 +8,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://git.snoot.club/chee/homebridge-little-warmth.git"
+		"url": "git+https://github.com/chee/homebridge-little-warmth.git"
 	},
 	"engines": {
 		"homebridge": "*"
 	},
-	"author": "chee <chee@snoot.club>",
+	"author": "chee <yay@chee.party>",
 	"license": "GPL-3.0",
 	"keywords": [
 		"homebridge-plugin"
